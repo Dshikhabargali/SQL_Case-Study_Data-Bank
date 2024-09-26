@@ -4,7 +4,7 @@
 <img src="https://github.com/Chisomnwa/SQL-Challenge-Case-Study-4---Data-Bank/blob/main/Images/Data%20Bank%20Logo.png" width="540" height="540">
 
 ---
-
+* [Click here to view the full challenge](https://8weeksqlchallenge.com/case-study-4/)*
 
 ---
 ## 🧾 Table of Contents

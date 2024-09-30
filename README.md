@@ -7,14 +7,7 @@
 * [Click here to view the full challenge](https://8weeksqlchallenge.com/case-study-4/)*
 
 ---
-## 🧾 Table of Contents
-- [Business Case](#business-case)
-- [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Available Data](#available-data)
-- [Case Study Solutions](#case-study-solutions)
 
-
-   
 ## Problem Statement
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
 

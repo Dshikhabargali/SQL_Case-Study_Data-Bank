@@ -52,7 +52,7 @@ region_id | region_name
 5 | Oceania
 
 #### ``Table 2: subscriptions``
-*Note: this is  customers sample table*
+*This is  customers sample table*
 customer_id | region_id | node_id | start_date | end_date
 -- | -- | -- | -- | --
 1 | 3 | 4 | 2020-01-02 | 2020-01-03
@@ -67,7 +67,7 @@ customer_id | region_id | node_id | start_date | end_date
 10 | 3 | 4 | 2020-01-13 | 2020-01-14
 
 #### ``Table 3: Customer Transactions``
-*Note: this is only customers sample table*
+*This is customers sample table*
 customer_id | txn_date | txn_type | txn_amount
 -- | -- | -- | --
 429 | 2020-01-21 | deposit | 82

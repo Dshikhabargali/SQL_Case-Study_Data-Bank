@@ -34,7 +34,7 @@ This case study is all about calculating metrics, growth and helping the busines
 <p align="center" style="margin-bottom: 0px !important;">
 <img src="https://github.com/Chisomnwa/SQL-Challenge-Case-Study-4---Data-Bank/blob/main/Images/ERD%20-%20%20Data%20Bank.png">
    
-### Case Study Questions
+## Case Study Questions
 The following case study questions include some general data exploration analysis for the nodes and transactions before diving right into the core business questions and finishes with a challenging final request!
 
 ### Customer Nodes Exploration
